@@ -1,0 +1,136 @@
+body {
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+	font-size: 48px;
+	font-weight: 800;
+	text-align: left;
+	position: absolute;
+	margin: -60px 0 0 0;
+}
+
+h2 {
+	font-size: 48px;
+	font-weight: 600;
+	margin: 70px;
+}
+ h3 { font-size: 40px;
+	font-weight: 600;
+ 	color: #033048 ;
+}
+
+
+.first {
+	color: white;
+	background-image: url("../images/header_bg.jpg");
+	background-size: cover;
+	box-sizing: border-box;
+	height: 670px;
+	padding: 100px;
+
+}
+
+.second {
+	background-color: #f0efef;
+	text-align: left;
+	font-size: 26px;
+	font-weight: 200;
+	color: #606161;
+	padding: 100px;
+}
+
+.sencondp {
+	width: 605px;
+	margin: 20px 0 20px 0;
+	line-height: 40px;
+}
+
+ul {
+	width: 500px;
+	margin: 40px 0 0 80px ;
+}
+
+li {
+	list-style: disc;
+	list-style-position: inside;
+	line-height: 50px
+}
+.third {
+	color: white;
+	background-image: url("../images/testimonial_bg.jpg");
+	background-size: cover;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.fourth {
+	background-color: #f9e42e;
+
+}
+
+blockquote {
+	width: 600px;
+	font-size: 36px;
+	font-weight: 300;
+	font-style: italic;
+	margin: auto;
+	line-height: 40px;
+
+}
+
+strong {
+	font-size: 36px;
+	font-weight: 600;
+	font-style: bold;
+	line-height: 60px;
+}
+
+button {
+	font-size: 28px;
+	font-weight: 800;
+	border-width: 0;
+	border-radius: 5px;
+	padding: 10px 50px 10px 50px;
+	margin: 40px;
+}
+
+.top {
+	background-color:#f9e42e;
+	color:#033048 ;
+}
+
+.bottom {
+	background-color:#033048;
+	color: white;
+	margin: 40px;
+}
+
+
+
+
+footer {
+	text-align: center;
+	background-color: #121212;
+	padding: 50px;
+}
+span {
+ 	color:  #f9e42e;
+	font-size: 48px;
+	font-weight: 800;
+	
+}
+footer p {
+	color: white;
+	font-size: 18px;
+	font-weight: 400;
+}
+
+.icon {
+	margin: 50px;
+}
+
+a {
+	margin: 30px;
+}
